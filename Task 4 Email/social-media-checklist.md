@@ -35,5 +35,5 @@
 7. Do not use your professional email address to sign up for social platforms, games, or promotional offers unrelated to your studies.
 
 
-by sushant kumar
-25bai10755
+by Aakansh Yadav
+22BAI10320
