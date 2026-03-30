@@ -6,10 +6,10 @@ VIT Bhopal University
 
 
 
-Name:              SUSHANT KUMAR
-Registration No.:   25BAI10755
+Name:              AAKANSH YADAV
+Registration No.:   22BAI10320
 Branch:             B.Tech – CSE(AIML)
-Year / Semester:    First Year | Semester 2
+Year           :    FINAL YEAR 
 Course Code:        CSE0001
 Submission Date:    30/03/2026
 
