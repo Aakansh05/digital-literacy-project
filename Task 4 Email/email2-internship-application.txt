@@ -5,7 +5,7 @@ Subject: Application for Summer Internship 2025 — B.Tech CSE Student
 
 Dear Hiring Team,
 
-I am Sushant Kumar , a first-year B.Tech student specializing in Computer Science and Engineering at VIT Bhopal University (expected graduation: 2029). I am writing to express my interest in a summer internship opportunity at Google for the May–July 2025 period.
+I am Aakansh Yadav , a final-year B.Tech student specializing in Computer Science and Engineering at VIT Bhopal University (expected graduation: 2026). I am writing to express my interest in a summer internship opportunity at Google for the May–July 2025 period.
 
 I am currently building foundational skills in Python, C++, and machine learning through my coursework, and I am looking for an opportunity to apply what I have learned in a real work environment. I came across google through your college placement cell and was particularly interested in your work in [specific domain — e.g., data engineering , AI
 
@@ -14,10 +14,9 @@ I have attached my resume for your consideration. I am flexible with timelines a
 Thank you for taking the time to read this email. I look forward to hearing from you.
 
 Regards,
-Sushant Kumar
-B.Tech CSE | First Year
+Aakansh Yadav
+B.Tech CSE | Final Year
 VIT Bhopal University
-Registration No.: 25BAI10755
-Contact: sushant.25bai10755vitbhopal.ac.in
-GitHub: https://github.com/21sushant2007eng
-LinkedIn: https://www.linkedin.com/in/sushant-kumar-599398393/
+Registration No.: 22BAI10320
+GitHub:  https://github.com/Aakansh-Yadav 
+LinkedIn:http://www.linkedin.com/in/aakansh-yadav-488528367
