@@ -1,4 +1,4 @@
-# digital-literacy-project[README.md](https://github.com/user-attachments/files/26356762/README.md)
+
 # Digital Literacy Portfolio
 ### CSE0001 – Digital Literacy | VIT Bhopal University
 
