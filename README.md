@@ -6,7 +6,7 @@
 **Name:** AAKANSH YADAV
 **Registration Number:** 22BAI10320
 **Branch:** B.Tech – CSE(AIML)
-**Year:** Final Year | 2024–25  
+**Year:** Final Year   
 **Course Code:** CSE0001  
 
 ---
